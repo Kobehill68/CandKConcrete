@@ -1,0 +1,86 @@
+p {
+    font-family: 'Times New Roman', Times, serif;  
+}
+
+header {
+    background-color:silver !important; 
+}
+ 
+footer {
+    background-color:silver !important;
+    bottom: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    height: 5vh;
+    position: fixed;
+    padding-top: 15px;
+    text-align: center;
+    width: 100vw;
+}
+ 
+h5 {
+    color: white;
+}
+
+.homeroute {
+    text-decoration: none;
+}
+
+.homeroute:hover {
+    color: slategrey;
+}
+
+.copyright {
+    color: slategrey
+}
+
+.row {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.image {
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+.imagebox {
+    margin-left: 6rem;
+    margin-top: 1rem;
+}
+
+
+.homepage {
+    margin-top: 21rem ;
+    /* margin-bottom: 1rem ;
+    margin-left: 1rem ; */
+    margin-right: 1rem ;
+    text-align: center;
+    /* background-image: url("./images/image3.jpg"); */
+    text-decoration: none;
+    text-shadow: 1rem;
+    text-emphasis: none;
+    color:white;
+
+}
+
+body {
+    background-image: url("./images/image7.jpg");
+    background-repeat: no-repeat;
+}
+
+.navtabs {
+    color: white !important;
+}
+
+.navtabs:hover {
+    color: slategray !important;
+}
+
+.container{
+   color: white;  
+}
+
+.find {
+    color: slategray !important;
+}
